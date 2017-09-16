@@ -23,6 +23,7 @@
 #define	_MCDWRAPPER_CPP_
 
 #include <ctime>
+#include<windows.h>   //for LARGE_INTEGER tickNow;
 #include <cstring>
 #include "MCDWrapper.hpp"
 #include "params.hpp"
